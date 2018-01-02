@@ -1,4 +1,4 @@
-#Game to guess arandom number
+#Game to guess a random number
 
 def numbergame():
 	magic_number = 7
